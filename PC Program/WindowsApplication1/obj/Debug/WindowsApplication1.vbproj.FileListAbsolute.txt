@@ -1,0 +1,74 @@
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\E Drive\VB Projects\VB.NET PROJECTS\Madhu\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\E Drive\VB Projects\VB.NET PROJECTS\Madhu\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Madhu\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Madhu\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Madhu\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Madhu\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Madhu\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\E Drive\VB Projects\VB.NET PROJECTS\Madhu\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Madhu\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Madhu\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Drive J\E Drive\VB Projects\VB.NET PROJECTS\Ambience\RFID Shopping Cart\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Drive J\E Drive\VB Projects\VB.NET PROJECTS\Ambience\RFID Shopping Cart\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Drive J\E Drive\VB Projects\VB.NET PROJECTS\Ambience\RFID Shopping Cart\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Drive J\E Drive\VB Projects\VB.NET PROJECTS\Ambience\RFID Shopping Cart\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Drive J\E Drive\VB Projects\VB.NET PROJECTS\Ambience\RFID Shopping Cart\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Drive J\E Drive\VB Projects\VB.NET PROJECTS\Ambience\RFID Shopping Cart\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Drive J\E Drive\VB Projects\VB.NET PROJECTS\Ambience\RFID Shopping Cart\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Drive J\E Drive\VB Projects\VB.NET PROJECTS\Ambience\RFID Shopping Cart\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\Drive J\E Drive\VB Projects\VB.NET PROJECTS\Ambience\RFID Shopping Cart\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Drive J\E Drive\VB Projects\VB.NET PROJECTS\Ambience\RFID Shopping Cart\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering System\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering System\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering System\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering System\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering System\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering System\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering System\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering System\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering System\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering System\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering SystemV2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering SystemV2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering SystemV2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering SystemV2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering SystemV2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering SystemV2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering SystemV2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering SystemV2\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering SystemV2\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2016\Food Ordering SystemV2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+J:\Projects Delivered\Ambience 2016\Food Ordering System V2\PC Program\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+J:\Projects Delivered\Ambience 2016\Food Ordering System V2\PC Program\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+J:\Projects Delivered\Ambience 2016\Food Ordering System V2\PC Program\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+J:\Projects Delivered\Ambience 2016\Food Ordering System V2\PC Program\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
